@@ -4,9 +4,9 @@
 
 | # | Area | Owner |
 |---|------|-------|
-| 1 | PDF processing & text extraction | AJAY |
-| 2 | AI semantic similarity | AJAY |
-| 3 | Comparison analysis & PDF report generation | AJAY |
+| 1 | PDF processing & text extraction | AJAY 1ST |
+| 2 | AI semantic similarity | AJAY 2ND |
+| 3 | Comparison analysis & PDF report generation | AJAY 3RD |
 | 4 | **Application layer: backend API + frontend UI** | **AJAY**|
 
 This repo contains ONLY the application layer (#4): a FastAPI backend that
