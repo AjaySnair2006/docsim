@@ -27,9 +27,9 @@ docsim-project/
 │   │   │   ├── compare.py           # POST /compare (main pipeline)
 │   │   │   └── report.py            # GET /download-report/{id}
 │   │   ├── services/
-│   │   │   ├── pdf_module_adapter.py         # calls Teammate 1's module
-│   │   │   ├── similarity_module_adapter.py  # calls Teammate 1's module
-│   │   │   ├── report_module_adapter.py      # calls Teammate 1's module
+│   │   │   ├── pdf_module_adapter.py         # calls AJAY S 1st module
+│   │   │   ├── similarity_module_adapter.py  # calls AJAY S 2st module
+│   │   │   ├── report_module_adapter.py      # calls AJAY S 3st module
 │   │   │   └── report_store.py               # in-memory report registry
 │   │   ├── utils/
 │   │   │   ├── validators.py        # PDF upload validation
