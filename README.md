@@ -28,8 +28,8 @@ docsim-project/
 │   │   │   └── report.py            # GET /download-report/{id}
 │   │   ├── services/
 │   │   │   ├── pdf_module_adapter.py         # calls Teammate 1's module
-│   │   │   ├── similarity_module_adapter.py  # calls Teammate 2's module
-│   │   │   ├── report_module_adapter.py      # calls Teammate 3's module
+│   │   │   ├── similarity_module_adapter.py  # calls Teammate 1's module
+│   │   │   ├── report_module_adapter.py      # calls Teammate 1's module
 │   │   │   └── report_store.py               # in-memory report registry
 │   │   ├── utils/
 │   │   │   ├── validators.py        # PDF upload validation
