@@ -4,10 +4,10 @@
 
 | # | Area | Owner |
 |---|------|-------|
-| 1 | PDF processing & text extraction | my self |
-| 2 | AI semantic similarity | my self |
-| 3 | Comparison analysis & PDF report generation | my self |
-| 4 | **Application layer: backend API + frontend UI** | **my self**|
+| 1 | PDF processing & text extraction | AJAY |
+| 2 | AI semantic similarity | AJAY |
+| 3 | Comparison analysis & PDF report generation | AJAY |
+| 4 | **Application layer: backend API + frontend UI** | **AJAY**|
 
 This repo contains ONLY the application layer (#4): a FastAPI backend that
 orchestrates the other three modules, and a React frontend that lets a user
