@@ -4,10 +4,10 @@
 
 | # | Area | Owner |
 |---|------|-------|
-| 1 | PDF processing & text extraction | Teammate 1 |
-| 2 | AI semantic similarity | Teammate 2 |
-| 3 | Comparison analysis & PDF report generation | Teammate 3 |
-| 4 | **Application layer: backend API + frontend UI** | **You (this repo)** |
+| 1 | PDF processing & text extraction | my self |
+| 2 | AI semantic similarity | my self |
+| 3 | Comparison analysis & PDF report generation | my self |
+| 4 | **Application layer: backend API + frontend UI** | **my self**|
 
 This repo contains ONLY the application layer (#4): a FastAPI backend that
 orchestrates the other three modules, and a React frontend that lets a user
